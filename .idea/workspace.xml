@@ -4,8 +4,34 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69cfc4f3-751f-4353-b331-2208cb988e4b" name="变更" comment="20221218">
+    <list default="true" id="db64b0e8-76f5-4149-83da-f124ed9a0b2f" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/函数与包/16big.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数与包/17time.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数与包/18map.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数与包/19Map-Reduce-Filter模式.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数与包/add1/add.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/函数与包/text.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/go.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数与包/10函数的返回值.go" beforeDir="false" afterPath="$PROJECT_DIR$/函数与包/10函数的返回值.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数与包/11全局变量和局部变量.go" beforeDir="false" afterPath="$PROJECT_DIR$/函数与包/11全局变量和局部变量.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数与包/12.1闭包.go" beforeDir="false" afterPath="$PROJECT_DIR$/函数与包/12.1闭包.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数与包/12匿名函数.go" beforeDir="false" afterPath="$PROJECT_DIR$/函数与包/12匿名函数.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数与包/13defer语句.go" beforeDir="false" afterPath="$PROJECT_DIR$/函数与包/13defer语句.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数与包/14 高阶函数.go" beforeDir="false" afterPath="$PROJECT_DIR$/函数与包/14 高阶函数.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数与包/15递归函数.go" beforeDir="false" afterPath="$PROJECT_DIR$/函数与包/15递归函数.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数与包/1函数.go" beforeDir="false" afterPath="$PROJECT_DIR$/函数与包/1函数.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数与包/2函数案例.go" beforeDir="false" afterPath="$PROJECT_DIR$/函数与包/2函数案例.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数与包/3函数的普通参数列表.go" beforeDir="false" afterPath="$PROJECT_DIR$/函数与包/3函数的普通参数列表.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数与包/5可变参数.go" beforeDir="false" afterPath="$PROJECT_DIR$/函数与包/5可变参数.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数与包/6函数别名.go" beforeDir="false" afterPath="$PROJECT_DIR$/函数与包/6函数别名.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数与包/7函数调用过程.go" beforeDir="false" afterPath="$PROJECT_DIR$/函数与包/7函数调用过程.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数与包/8函数嵌套.go" beforeDir="false" afterPath="$PROJECT_DIR$/函数与包/8函数嵌套.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数与包/9函数参数传递.go" beforeDir="false" afterPath="$PROJECT_DIR$/函数与包/9函数参数传递.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数与包/内置函数.go" beforeDir="false" afterPath="$PROJECT_DIR$/函数与包/内置函数.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数与包/函数运行时间.go" beforeDir="false" afterPath="$PROJECT_DIR$/函数与包/函数运行时间.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/函数与包/字符串.go" beforeDir="false" afterPath="$PROJECT_DIR$/函数与包/字符串.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,51 +48,52 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2J4oqPAZbnNp8urXWcU8cIqZ0k2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2J5Kdtr52VqRAUbfq6HCGRKWx9l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.formatter.settings.were.checked" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.watchers.conflict.with.on.save.actions.check.performed" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="xuexi" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="xuexi" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="xuexi" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <package value="xuexi" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Create README.md" />
-    <MESSAGE value="20221218" />
-    <option name="LAST_COMMIT_MESSAGE" value="20221218" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/函数与包" />
+    </ignored-roots>
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
